@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "product 1",
+      "catogry": "chair 1",
+      "price":100
+    },
+    {
+      "id": 2,
+      "title": "product 2",
+      "catogry": "chair 2",
+      "price":300
+    },
+    {
+      "id": 3,
+      "title": "product 3",
+      "catogry": "chair 3",
+      "price":400
+    },
+    {
+      "id": 4,
+      "title": "product 4",
+      "catogry": "chair 4",
+      "price":200
+    },
+    {
+      "id": 5,
+      "title": "product 5",
+      "catogry": "chair 5",
+      "price":10
+    }
+  ],
+  
+  "reviews": [
+    {
+      "id": 1,
+      "rating": 6.2,
+      "review": "This is amazing"
+    },
+    {
+      "id": 2,
+      "rating": 5.4,
+      "review": "This is amazing"
+    },
+    {
+      "id": 3,
+      "rating": 10,
+      "review": "This is amazing"
+    },
+    {
+      "id": 4,
+      "rating": 4,
+      "review": "This is amazing"
+    },
+    {
+      "id": 5,
+      "rating": 8,
+      "review": "This is amazing"
+    }
+  ]
+}
